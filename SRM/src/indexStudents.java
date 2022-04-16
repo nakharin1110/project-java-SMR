@@ -57,7 +57,7 @@ public class indexStudents extends javax.swing.JFrame {
         jSreach.setBackground(new java.awt.Color(51, 153, 102));
         jSreach.setFont(new java.awt.Font("Serif", 0, 14)); // NOI18N
         jSreach.setForeground(new java.awt.Color(255, 255, 255));
-        jSreach.setText("SREACH");
+        jSreach.setText("SEARCH");
         jSreach.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jSreachActionPerformed(evt);
